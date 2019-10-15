@@ -1,0 +1,13 @@
+#box {
+    height: 4em;
+    width: 4em;
+    background-color: rgb(226,128,218);
+}
+
+#submitButton {
+    margin-bottom: 1em;
+}
+
+#addNameButton {
+    margin-bottom: 1em;
+}
